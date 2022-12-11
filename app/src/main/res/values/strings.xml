@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseEjercicio</string>
+    <string name="busqueda">Aquí saldrá la id del objeto que buscaste en la base de datos.</string>
+    <string name="inputBusqueda"></string>
+    <string name="submit">Buscar</string>
+
+</resources>
