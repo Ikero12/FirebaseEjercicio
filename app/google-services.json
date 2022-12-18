@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567601566245",
+    "project_id": "bdpruebas2",
+    "storage_bucket": "bdpruebas2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567601566245:android:5fb049cf1d66532364e5cc",
+        "android_client_info": {
+          "package_name": "com.example.firebaseejercicio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567601566245-lkobbu2p4vilpg8o8mrnec93qc3ga9et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChUv5kAkT-OjmzENPADX2ApiV_Uir_DNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567601566245-lkobbu2p4vilpg8o8mrnec93qc3ga9et.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
